@@ -1,0 +1,7 @@
+.vs
+bin/
+obj/
+ImageSorter/bin
+ImageSorter/obj
+ImageSorter\ImageSorter
+ImageSorter\ImageSorter.user
