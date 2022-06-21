@@ -1,18 +1,18 @@
 # Image Sorter
-이미지 파일을 정렬하는 프로그램 입니다.
 
-A program that sorts image files.
+`이미지 파일을 정렬하는 프로그램 입니다.`
 
-## Changes
-```
-.NET Framework 4.8 -> .NET Core 3.1
-change the project name
-```
+##### 2022.06.21
 
-## Screenshot
+- .NET 3.1 -> .NET 6
+- Windows 11 실행 확인
+
+## GUI
+
 ![Image sorter](assets/images/Image_sorter.png)
 
 ## License
-***GNU General Public License v3.0***
 
-***Copyright 2020-2021 chm209 all right reserved***
+**_GNU General Public License v3.0_**
+
+**_Copyright 2020-2022 chm209 all right reserved_**
